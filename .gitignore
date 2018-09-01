@@ -108,3 +108,5 @@ data/
 
 # MacOS cache
 .DS_Store
+# Avoid submission file
+submission.csv
