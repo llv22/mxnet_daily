@@ -110,3 +110,8 @@ data/
 .DS_Store
 # Avoid submission file
 submission.csv
+# local saved params
+*.params
+x
+mydict
+xy
